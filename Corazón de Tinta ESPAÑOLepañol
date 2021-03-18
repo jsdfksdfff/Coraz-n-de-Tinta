@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+<div class="overlay"></div>
+<div class="absolute">
+<!-- TEXTO DE INFORMACION INICIAL-_- -->
+<center><h6><font color="darkcyan">Corazón de Tinta IDIOMA ESPAÑOL POR PELISXANCK.BLOGSPOT.COM.</h6></center>
+<!-- PONER pelicula-_- -->
+<center><iframe allowfullscreen="" frameborder="10" height="315" id="bigframe" src="https://youtu.be/XapjDiVlbbI" width="39%"></iframe></center>
+
+<!-- PONER pelicula-_- -->
+<center><iframe allowfullscreen="" frameborder="10" height="315" id="bigframe" src="https://youtu.be/vrLq4lRJqDk" width="39%"></iframe></center>
+<!-- TODO LO QUE LLEBE LAS ETIQUETAS body DONTRO DE STYLE MODIFICA LOS COLORES DEL FONDO-_- -->
+<style>
+    body
+    {
+        background-color: rgb(27, 27, 27);
+        border-width: 5px;
+    }
+</style>
+<meta charset="UTF-8">
+<!-- TITULO DE LA PAGINA-_- -->
+<title>pelisxanck</title>
+<!-- Cerrar procesos de titulo y cabeza-_- -->
+</head>
+<!--bloquear clik derecho-->
+<script language="JavaScript">
+    function inhabilitar(){
+    
+    return false
+    }
+    document.oncontextmenu=inhabilitar
+    // -->
+    </script>
+<!-- INICIO DEL CUERPO-_- -->
+<body>
+<!-- CERRAR CUERPO-_- -->
+</body>
+<!-- DERECHOS RESERBADOS-_- -->
+<footer><center><p><font color="green">Copyright 2021 (@) todos los derechos reserbados.</font></p></center></footer>
+<!-- FIN DEL CODIGO-_- -->
+</html>
